@@ -10,5 +10,5 @@ puts total
 
 i = 0
 while i < array.length do
-
+  total += array[i]
 end
