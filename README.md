@@ -5,3 +5,5 @@ total = 0
 for 1..array.length-1 do |element|
   total += element
 end
+
+puts total
